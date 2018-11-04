@@ -1,0 +1,10 @@
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\bin\Debug\ProgrammingExercise2.exe.config
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\bin\Debug\ProgrammingExercise2.exe
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\bin\Debug\ProgrammingExercise2.pdb
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\obj\Debug\ProgrammingExercise2.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\obj\Debug\ProgrammingExercise2.Form1.resources
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\obj\Debug\ProgrammingExercise2.Properties.Resources.resources
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\obj\Debug\ProgrammingExercise2.csproj.GenerateResource.cache
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\obj\Debug\ProgrammingExercise2.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\obj\Debug\ProgrammingExercise2.exe
+C:\Users\Rick\source\repos\ProgrammingExercise2\ProgrammingExercise2\obj\Debug\ProgrammingExercise2.pdb
